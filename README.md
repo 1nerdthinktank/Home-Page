@@ -17,14 +17,6 @@ This is my story..
 
 Before I taught myself Python in 2021, I was still technically capable and good with technology in general, hepling friends and family with IT problems.
 
-Royal Observatrory of Greenwich:
-
-Secondary School: 
-
-Bromley College:
-
-South Tyneside College:
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nintendo DS Zero-day exploit:
@@ -55,11 +47,6 @@ Cyber:
 
 My Python coding and interest expanded into cyber when I started finsing hack the box websites and 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Corporate Security:
-
-Over I have worked in the top 100 corporate buildings in london, as a security and supervisor.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,10 +54,5 @@ In Oct 2024 I graduated from the University of Greenwich with a 2:1 BSc in Compu
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-I have always had a deep passion for 
-
-several projects that I have worked on in my life that has prepared me for 
 
 // IF YOU REACHED THE BOTTOM, THANKS FOR YOUR TIME!
